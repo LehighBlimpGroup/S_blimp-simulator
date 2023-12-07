@@ -8,3 +8,4 @@ Here we use Jupyter Notebook to build the simulator environment with Pylab. The 
 Please try the trajectory following.ipynb first if you are not famillar with these simulator.
 Other .ipynb files are testing settings for the paper. You can try to run the simulator in different robot settings(motor force, tau, weight and size of the robot...), or different tasks(go to waypoints, follow a trajectory...).
 
+The Controller folder contains the real controller files (send commands to robots in real time) we used in the paper. You can take that as reference.
