@@ -1,5 +1,6 @@
 # Spinning Blimp simulator
-Spinning Blimp simulator for Paper (reviewing): <br>[IEEE ICRA 2024] The Spinning Blimp: Design and Control of a Novel Minimalist Aerial Vehicle Leveraging Spinning Dynamics and Locomotion. Leonardo Santens, Shuhang Hou, Diego S. D’Antonio, and David Saldana
+
+Spinning Blimp simulator for Paper (reviewing): <br>[IEEE ICRA 2025] The Spinning Blimp: Design and Control of a Novel Minimalist Aerial Vehicle Leveraging Rotational Dynamics and Locomotion. Leonardo Santens, Shuhang Hou, Diego S. D’Antonio, and David Saldana
 
 Spinning Blimp Robot: a constantly spinning blimp robot with two motors with propellors and two wings to move in 3D space.
 Here we use Jupyter Notebook to build the simulator environment with Pylab. The inputs of the robot are just f1 and f2, which means the motor force of Motor1 and Motor2, and the outputs are the XYZ plots VS time, RPM VS time, f1 and f2 VS time.
